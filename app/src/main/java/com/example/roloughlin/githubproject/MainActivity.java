@@ -10,5 +10,5 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-    /*cleaning up your mess*/
+    /*cleaning up your mess again*/
 }
